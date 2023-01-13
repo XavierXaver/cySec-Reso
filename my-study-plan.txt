@@ -6,6 +6,7 @@ RENCANA BELAJAR:
    - OSI Model
    - TCP
    - Active Listening
+   - Communication skills
  
 2. DIGITAL SECURITY
    - OPSEC
