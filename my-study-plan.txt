@@ -1,0 +1,49 @@
+RENCANA BELAJAR:
+
+1. NETWORKING
+   - IPTables
+   - PCAP
+   - OSI Model
+   - TCP
+ 
+2. DIGITAL SECURITY
+   - OPSEC
+   - Privacy
+   - Passwords
+   - Crypto
+   
+3. FORENSICS
+   - Disk
+   - Autopsy
+   - Memory
+   - Network
+   
+4. REVERSE ENGINEERING
+   - Fuzzing
+   - Debungging
+   - Assembly
+   - IDA Pro
+   
+5. SYSTEM ADMINISTRATION
+   - Kerberos
+   - Backup
+   - Filesystem
+   - Operating System
+   
+6. AUDIT & COMPLIANCE
+   - ISO 270001
+   - CIS Controls
+   - Common Criteria
+   - NIST - 800
+   
+7. COMMAND LINE
+   - Coding
+   - Git
+   - Powershell
+   - Bash
+   
+8. CYBER OPERATIONS
+   - Threat Intel
+   - APTs
+   - Cyber kill chain
+   - Mitre ATT&CK
