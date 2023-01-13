@@ -5,8 +5,7 @@ RENCANA BELAJAR:
    - PCAP
    - OSI Model
    - TCP
-   - Active Listening
-   - Communication skills
+   - Scripting
  
 2. DIGITAL SECURITY
    - OPSEC
@@ -19,7 +18,7 @@ RENCANA BELAJAR:
    - Autopsy
    - Memory
    - Network
-   - Critical - Thinking
+   - Computer Programming
    
 4. REVERSE ENGINEERING
    - Fuzzing
